@@ -19,6 +19,6 @@
 
 
 
-![Vishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=suji321&show_icons=true&theme=tokyonight)
+![Sujith's GitHub stats](https://github-readme-stats.vercel.app/api?username=suji321&show_icons=true&theme=tokyonight)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suji321&theme=tokyonight)
